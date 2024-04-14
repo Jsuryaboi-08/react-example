@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Jsuryaboi-08/react-example/static/css/main.0f16e0a4.css",
-    "main.js": "/Jsuryaboi-08/react-example/static/js/main.178368a2.js",
-    "static/js/453.cddcc6b9.chunk.js": "/Jsuryaboi-08/react-example/static/js/453.cddcc6b9.chunk.js",
-    "index.html": "/Jsuryaboi-08/react-example/index.html",
-    "main.0f16e0a4.css.map": "/Jsuryaboi-08/react-example/static/css/main.0f16e0a4.css.map",
-    "main.178368a2.js.map": "/Jsuryaboi-08/react-example/static/js/main.178368a2.js.map",
-    "453.cddcc6b9.chunk.js.map": "/Jsuryaboi-08/react-example/static/js/453.cddcc6b9.chunk.js.map"
+    "main.css": "/react-example/static/css/main.0f16e0a4.css",
+    "main.js": "/react-example/static/js/main.025c92fb.js",
+    "static/js/453.cddcc6b9.chunk.js": "/react-example/static/js/453.cddcc6b9.chunk.js",
+    "index.html": "/react-example/index.html",
+    "main.0f16e0a4.css.map": "/react-example/static/css/main.0f16e0a4.css.map",
+    "main.025c92fb.js.map": "/react-example/static/js/main.025c92fb.js.map",
+    "453.cddcc6b9.chunk.js.map": "/react-example/static/js/453.cddcc6b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f16e0a4.css",
-    "static/js/main.178368a2.js"
+    "static/js/main.025c92fb.js"
   ]
 }
